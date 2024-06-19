@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hanna Geffen</h1>
 <h3 align="center">Searching for my next challenge as a Full-stack / Backend developer</h3>
 
-- 🔭 I’m currently looking to work in **Full Stack Developement**
-
-- 🌱 I continue to learn and develop my skills in **Node.js, AWS, Docker and Kubernetes**
+- 🔭 I’m currently looking to work in **Back End Developement**
 
 - 👯 I’m looking to collaborate as a teamplayer because I strongly believe that **"Teams work - makes the DREAM work!!"**
 
 <!---
 - 👨‍💻 All of my projects are available at [My Portfolio](https://Hanna-Geffen.github.io/portfolio/)
+- 🌱 I continue to learn and develop my skills everyday ****
 --->
 - 📫 You can reach me at **hannageffen26@gmail.com**, **0583293750**, <a href="https://www.linkedin.com/in/hanna-geffen-9b253599/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanna geffen" height="30" width="40" /></a>
 
