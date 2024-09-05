@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanna Geffen</h1>
-<h3 align="center">Searching for my next challenge as a Full-stack / Backend developer</h3>
+<h3 align="center">Searching for my next challenge as a Full Stack / Back End Developer</h3>
 
 - 🔭 I’m currently looking to work in **Back End Developement**
 
